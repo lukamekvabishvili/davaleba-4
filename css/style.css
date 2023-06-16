@@ -54,14 +54,14 @@ li{
 	margin-bottom: 18px;
 }
 .first{
-	font-family: 'BPG Nino Mkhedruli';
 	font-weight: 400;
 	font-size: 32px;
 	color: #8D81FF;
 	margin-bottom: 8px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .myh4{
-	font-family: 'GL Tatishvili Metal';
+	font-family: GL Tatishvili Metal;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 20px;
@@ -80,15 +80,109 @@ li{
 	vertical-align: top;
 }
 .myp{
-	width: 778px;
-	height: 353px;
+	width: 800px;
 	font-family: 'GL Kirovi';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 16px;
-	line-height: 23px;
+	font-size: 18px;
 	color: #4E6FAE;
+	margin-bottom: 5px;
+
+}
+h2{
+	font-family: 'GL Kirovi';
+	font-style: normal;
+	font-weight: 700;
+	color: #4E6FAE;
+}
+.photo1{
+	margin-bottom: 32px;
+}
+.myp1{
+	width: 1021px;
+	font-family: 'GL Kirovi';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	color: #4E6FAE;
+	margin-bottom: 143px;
+}
+.container{
+	width: 1052px;
+	margin: 0 auto;
+}
+.mynav{
+	margin-bottom: 97px;
+}
+.s-1{
+	margin-bottom: 120px;
+}
+.infodiv{
+	margin-bottom: 26px;
+}
+.myh2{
+	display: inline-block;
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	margin-right: 18px;
+	vertical-align: middle;
+}
+.stick{
+	display: inline-block;
+	margin-right: 18px;
+	width: 2px;
+	height: 30px;
+    background: #5012D5;
+    vertical-align: middle;
+}
+.myh3{
+	display: inline-block;
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	vertical-align: middle;
+}
+.card1{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	margin-right: 48px;
+	padding: 20px;
+	vertical-align: top;
+	margin-bottom: 91px;
+}
+.card2{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	padding: 20px;
+	vertical-align: top;
+	margin-bottom: 91px;
+}
+.imglogo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 37px;
+}
+.infop{
+	display: inline-block;
+	width: 300px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+.satauri{
+	margin-bottom: 30px;
 }
 .img1{
 	margin-right: 23px;
+	margin-bottom: 100px;
 }
