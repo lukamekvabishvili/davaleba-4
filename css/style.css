@@ -81,13 +81,21 @@ li{
 }
 .myp{
 	width: 800px;
-	font-family: 'GL Kirovi';
+	font-family: "BPG Square", sans-serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 18px;
 	color: #4E6FAE;
 	margin-bottom: 5px;
-
+}
+.myp3{
+	width: 800px;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	color: #4E6FAE;
+	margin-bottom: 5px;
 }
 h2{
 	font-family: 'GL Kirovi';
@@ -100,7 +108,7 @@ h2{
 }
 .myp1{
 	width: 1021px;
-	font-family: 'GL Kirovi';
+	font-family: "BPG Arial", sans-serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 18px;
@@ -174,6 +182,7 @@ h2{
 	margin-right: 37px;
 }
 .infop{
+	font-family: 'Roboto', sans-serif;
 	display: inline-block;
 	width: 300px;
 	vertical-align: middle;
@@ -181,6 +190,33 @@ h2{
 }
 .satauri{
 	margin-bottom: 30px;
+}
+.mydiv{
+	background-color: lightgray;
+    height: 495px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+}
+.mydiv1{
+	display: inline-block;
+    width: 400px;
+    height: 900px;
+    margin-top: 180px;
+    margin-right: 150px;
+    margin-left: 100px;
+    vertical-align: top;
+    color: #4E6FAE;
+    line-height: 30px;
+}
+.myh1{
+	font-size: 25px;
+}
+.kontaqti{
+	font-size: 18px;
+}
+.myiframe{
+	vertical-align: top;
+	padding: 93px 40px 93px 80px;
 }
 .img1{
 	margin-right: 23px;
