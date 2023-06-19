@@ -1,4 +1,4 @@
-body{
+.mybody{
 	padding: 54px 0px 0px 52px;
 }
 header{
@@ -194,7 +194,6 @@ h2{
 .mydiv{
 	background-color: lightgray;
     height: 495px;
-    margin-right: 100px;
     margin-bottom: 150px;
 }
 .mydiv1{
@@ -217,6 +216,12 @@ h2{
 .myiframe{
 	vertical-align: top;
 	padding: 93px 40px 93px 80px;
+}
+.myheader{
+	padding: 54px 0px 0px 52px;
+}
+.myfooter{
+	padding-left: 52px;
 }
 .img1{
 	margin-right: 23px;
